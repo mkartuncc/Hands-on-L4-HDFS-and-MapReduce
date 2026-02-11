@@ -1,5 +1,5 @@
-Input: Research paper abstract
-
+**Input: Research paper abstract
+**
 The primary objective of this paper was to incorporate the reinforcement learning technique in variable speed limit (VSL) control strategies to reduce system travel time at freeway bottlenecks. 
 A Q-learning (QL)-based VSL control strategy was proposed. 
 The controller included two components: a QL-based offline agent and an online VSL controller. 
@@ -11,101 +11,194 @@ The effects of the proposed strategy were compared with those of the feedback-ba
 The results showed that the proposed QL-based VSL strategy outperformed the feedback-based VSL strategy. 
 More specifically, the proposed VSL control strategy reduced the system travel time by 49.34% in the stable demand scenario and 21.84% in the fluctuating demand scenario.
 
-Output: the counts of each word in the abstract
-
+**Output: the counts of each word in the abstract
+**
 the	13
+
 VSL	8
+
 The	6
+
 strategy	4
+
 control	4
+
 was	4
+
 traffic	3
+
 for	3
+
 and	3
+
 were	3
+
 proposed	3
+
 system	3
+
 freeway	2
+
 time	2
+
 strategy.	2
+
 travel	2
+
 transmission	2
+
 model	2
+
 feedback-based	2
+
 QL-based	2
+
 controller	2
+
 demand	2
+
 stable	2
+
 fluctuating	2
+
 speed	2
+
 cell	2
+
 that	2
+
 effects	2
+
 parameter	1
+
 limit	1
+
 with	1
+
 online	1
+
 optimal	1
+
 learning	1
+
 Two	1
+
 reduce	1
+
 strategies	1
+
 showed	1
+
 technique	1
+
 controller.	1
+
 scenario.	1
+
 long-term	1
+
 agent	1
+
 included	1
+
 reinforcement	1
+
 scenario	1
+
 results	1
+
 incorporate	1
+
 compared	1
+
 specifically,	1
+
 Q-learning	1
+
 paper	1
+
 two	1
+
 goal	1
+
 components:	1
+
 demands	1
+
 evaluated	1
+
 scenarios	1
+
 (VSL)	1
+
 variable	1
+
 various	1
+
 learn	1
+
 overspeed	1
+
 (QL)-based	1
+
 outperformed	1
+
 account	1
+
 unsaturated	1
+
 21.84%	1
+
 both	1
+
 bottlenecks.	1
+
 recurrent	1
+
 trained	1
+
 More	1
+
 achieve	1
+
 bottleneck.	1
+
 offline	1
+
 objective	1
+
 considered	1
+
 this	1
+
 modified	1
+
 conditions.	1
+
 proposed.	1
+
 those	1
+
 reduced	1
+
 49.34%	1
+
 evaluated.	1
+
 limits	1
+
 optimization.	1
+
 states	1
+
 using	1
+
 introduced	1
+
 drivers	1
+
 new	1
+
 primary	1
 
 
