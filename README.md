@@ -1,5 +1,5 @@
-**Input: Research paper abstract
-**
+# Input: Research paper abstract
+
 The primary objective of this paper was to incorporate the reinforcement learning technique in variable speed limit (VSL) control strategies to reduce system travel time at freeway bottlenecks. 
 A Q-learning (QL)-based VSL control strategy was proposed. 
 The controller included two components: a QL-based offline agent and an online VSL controller. 
@@ -11,8 +11,8 @@ The effects of the proposed strategy were compared with those of the feedback-ba
 The results showed that the proposed QL-based VSL strategy outperformed the feedback-based VSL strategy. 
 More specifically, the proposed VSL control strategy reduced the system travel time by 49.34% in the stable demand scenario and 21.84% in the fluctuating demand scenario.
 
-**Output: the counts of each word in the abstract
-**
+# Output: the counts of each word in the abstract
+
 the	13
 
 VSL	8
